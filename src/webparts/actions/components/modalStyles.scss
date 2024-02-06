@@ -1,0 +1,13 @@
+/* modalStyles.scss */
+
+.ReactModal__Overlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .ReactModal__Content {
+    /* Ajoutez ici les styles supplémentaires pour le contenu de la modale */
+    width: 400px; /* Ajustez la largeur selon vos besoins */
+  }
+  
